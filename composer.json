@@ -1,0 +1,27 @@
+{
+  "name": "davidneedham/auto-backup-script",
+  "description": "",
+  "version": "1.0.0",
+  "type": "project",
+  "keywords": [],
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+  },
+  "config": {
+    "vendor-dir": "vendor",
+    "preferred-install": "dist",
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "scripts": {
+  }
+}
